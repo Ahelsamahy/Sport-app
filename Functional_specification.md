@@ -26,6 +26,8 @@ Is to deliver a top-notch project that will get the user what events they search
 
 ## 4. Intended audience
 
+It works with two types of user. First one is the event organizer as they are the base for the app, so we can provide the best environment for them and help their events reach more audience. Second one is the normal users or we call them in this case (**Fans**) that we will know what is the best approach for the event organizer to reach them and give them tips to reach the desired people that will be interested in their event and have more success rate in going to it than just applying for it and not showing after.
+
 ## 5. Standards & Laws
 
 ## 6. Current business model
