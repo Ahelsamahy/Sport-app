@@ -12,6 +12,17 @@ Our aim for this project is to start learning the way for framework to work as i
 
 ## 3. Scope
 
+Is to deliver a top-notch project that will get the user what events they search for and be good competitor on the market with other applications. Starting from the user logging on the application to browsing the events then choosing the one they want to go for then getting the ticket and be ready to go.
+
+### Navigation pages
+
+- Register: Ask the new users for basic info about them to store their preferences.
+- Home page: The place for all the events that you can register for.
+
+- My events: What you applied for and have the ticket as user, while it will show the events that you have made if you are an event organizer.
+
+- Dashboard: You can manage your account and add more events from it.
+
 ## 4. Intended audience
 
 ## 5. Standards & Laws
