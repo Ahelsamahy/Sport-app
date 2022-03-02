@@ -30,7 +30,7 @@ It works with two types of user. First one is the event organizer as they are th
 
 ## 5. Standards & Laws
 
-## General Standards:
+### General Standards:
 
 Application will have these general standards:
 
@@ -40,5 +40,9 @@ Application will have these general standards:
 4. It does not exhibit any errors or clash unexpectedly
 5. There is not any user interface glitches
 6. Have introduction for how the user shall use it in proper way.
+
+### Privacy and Cookie Policy
+
+Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read.
 
 ## 6. Current business model
