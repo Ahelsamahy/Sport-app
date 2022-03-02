@@ -1,6 +1,6 @@
 ## 1. Overview
 
-As it was requested from the client, the purpose of this app is to deliver a one of a kind platform that will unite between a fan for a specific sport and the event that will be published from the event holder.
+As it was requested from the client, the purpose of this app is to deliver a one of a kind platform that will unite between a fan for a specific sport and the event that will be published from the event holder, so they can interact with each other in a simple way without the noise of having to go for another platform that will charge them for extra money to publish their event, and make it easier for the fan-side to find all the events that shall interest them in one place and for different teams.
 
 ## 2. Current state
 
