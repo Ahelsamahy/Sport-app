@@ -8,7 +8,7 @@ Cross platform was a vital point that is requested from the user so they won't h
 
 At this moment, we are a small team that consists of 5 junior developer with 1 senior developer to authorize over our progress and make sure that we follow the guidelines to deliver a project that will be new in the market.
 
-Our aim for this project is to start learning the way for framework to work as it will be our first approach to it but it will be a keystone in the project to satisfy the client request in making it cross platform
+Our aim for this project is to start learning the way for framework to work as it will be our first approach to it but it will be a keystone in the project to satisfy the client request in making it cross platform, with the addition of connecting it to database that will hold the data of users split between normal user and the event organizer. Database will hold also the events with different data like how many users registered for it, the starting time with ending time, capacity for the stadium/place to hold the fans and the place.
 
 ## 3. Scope
 
