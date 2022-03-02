@@ -30,4 +30,15 @@ It works with two types of user. First one is the event organizer as they are th
 
 ## 5. Standards & Laws
 
+## General Standards:
+
+Application will have these general standards:
+
+1. Will have a simple user interface that can work with all ages.
+2. Will be easy for new user to get used to it.
+3. Will use the industry best practices in showing events to user.
+4. It does not exhibit any errors or clash unexpectedly
+5. There is not any user interface glitches
+6. Have introduction for how the user shall use it in proper way.
+
 ## 6. Current business model
