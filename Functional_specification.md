@@ -17,6 +17,7 @@ Is to deliver a top-notch project that will get the user what events they search
 ### Navigation pages
 
 - Register: Ask the new users for basic info about them to store their preferences.
+
 - Home page: The place for all the events that you can register for.
 
 - My events: What you applied for and have the ticket as user, while it will show the events that you have made if you are an event organizer.
