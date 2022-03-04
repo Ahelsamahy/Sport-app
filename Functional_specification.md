@@ -52,3 +52,11 @@ The main way for the app to work is get the info based on the user preferences t
 What makes this project stand out from the other applications is that it is cross platform and can deliver nearly the same performance on different platform as if it was programmed natively on it, which means that it won't take much time and effort to implement new feature and see it across devices, all of this will help the app grow in higher rate.
 
 ## 7.Specific business model
+
+As starting for the project, the main idea now is to attract more users over the cost of running the app, we are aware of how it will cost to run the servers and keep the improvements going on, but after we reach specific amount f users then we will start working on two ways to get money.
+
+standard model: There will be a small fee from every charge on ticket when a user buys one, and in the future we can charge even more for a hard copy version of the ticket if it is big event and phones won't be allowed.
+
+Freemium model: there will be some ads across the project pages for free users and also during browsing events.
+
+Subscription: get a priority when getting to event and not have to wait in the queue but skip it, in addition to removing adds.
