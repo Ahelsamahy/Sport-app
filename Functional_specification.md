@@ -46,3 +46,9 @@ Application will have these general standards:
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read.
 
 ## 6. Current business model
+
+The main way for the app to work is get the info based on the user preferences that was in the account when they registered in the app then show them related sport events that would interest them. Same way can go for the users who are on the other side, which are the event organizer, we give them the tools to make the event in best possible way to reach most audience and also be specific about it like how many attendee can fit in the place, can you provide drinks for them or they would have to buy for their own.
+
+What makes this project stand out from the other applications is that it is cross platform and can deliver nearly the same performance on different platform as if it was programmed natively on it, which means that it won't take much time and effort to implement new feature and see it across devices, all of this will help the app grow in higher rate.
+
+## 7.Specific business model
