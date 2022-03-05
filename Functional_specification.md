@@ -60,3 +60,11 @@ standard model: There will be a small fee from every charge on ticket when a use
 Freemium model: there will be some ads across the project pages for free users and also during browsing events.
 
 Subscription: get a priority when getting to event and not have to wait in the queue but skip it, in addition to removing adds.
+
+## 8. Request List
+
+## 9. Use Cases
+
+## 10. Glossary
+
+## 11. Script
