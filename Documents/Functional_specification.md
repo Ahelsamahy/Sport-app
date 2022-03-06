@@ -90,6 +90,8 @@ Mainly the project is going to be build on 2 main frameworks and programming lan
 
 Flutter: is an open-source user interface software development kit created by Google that is used to make a cross platform apps that work on different platforms like iOS, Windows, macOS and Android of course and was released back in May 2017.
 
+Firebase: is a platform developed also by Google for creating mobile and web applications and handling the backside of the projects like database and authentication. It will save lot of work for us and let us focus on the developing part.
+
 
 
 ## 11. Script
