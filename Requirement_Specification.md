@@ -37,5 +37,14 @@ than log in.
 when user log in he/she can see the main page of the web application which has all the evnts listed ,the Fans "student" can register for multiple events and they can unregister as well,for the event organizer "teachers" they can create an event ,delete event,modify event.
 
 
+__System rules, patterns, recommendations__
+
+For this project we will use Flutter which is is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia,and the web from a single codebase so it will be usefull for this project.
+for every problem ,we meet ,we will try to find good solution for it ,we will try to use good technology,
+such as android studio.
+for database we will use Firebase which is also platform developed by Google for creating mobile and web applications.
+dart will be the main language we use.
+
+
 
 
