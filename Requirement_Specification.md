@@ -74,8 +74,12 @@ __Request List__
 
 
 
-___Glossary__
+__Glossary__
+* Flutter : is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.
 
+* Dart : is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications.
+
+* Firebase : is a platform developed by Google for creating mobile and web applications
 
 
 
