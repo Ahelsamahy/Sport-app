@@ -10,9 +10,10 @@ Requirement specification
 6. Current business flow model.
 7. Project outline 
 8. Current situation 
-9. Goal  
-10. Glossary
-11. Other requirements
+9. Goal
+10.Request List  
+11. Glossary
+12. Other requirements
 
 
 __Project name__
@@ -67,6 +68,29 @@ also to get to use the task manager websites like Trello.com, and spread the tas
 But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this voltaile world where technology is constantly changing and getting better,and make the life of user and admin easier .
 We want to make sure this application isnt all about the manipulation but also the user experience. If a user enjoys our design and is able to use the application with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
+__Request List__
+
+
+
+
+
+___Glossary__
+
+
+
+
+
+__Other Requirements__
+
+
+
+
+__Functional requirements__
+
+
+
+
+__Script__
 
 
 
