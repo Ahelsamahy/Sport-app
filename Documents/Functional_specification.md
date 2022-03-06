@@ -70,6 +70,10 @@ Subscription: get a priority when getting to event and not have to wait in the q
 - buttons on screen for the user to interact with the app.
 
 ## 9. Use Cases
+the app can be used mainly by two types of users, the fan and the event organizer
+
+
+
 
 ## 10. Glossary
 
