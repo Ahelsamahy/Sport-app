@@ -30,5 +30,12 @@ Cross platform was a vital point that is requested from the user so they won't h
 Intended to be used by anyone who wants to register for a web application account.it can be student , teachers ,tourist or whoever,as long as they register and login ,they can have the total access in this website,there is no other limit of it.
 Is to deliver a top-notch project that will get the user what events they search for and be good competitor on the market with other applications. Starting from the user logging on the application to browsing the events then choosing the one they want to go for then getting the ticket and be ready to go.
 
+__User Needs__
+
+To use this web page, user needs to find the web page in any browser by using the name of the page, then the user can see the front of the web page which has a sign up and log in place so in order to register the user need to fill out his/her username which is email and enter password
+than log in.
+when user log in he/she can see the main page of the web application which has all the evnts listed ,the Fans "student" can register for multiple events and they can unregister as well,for the event organizer "teachers" they can create an event ,delete event,modify event.
+
+
 
 
