@@ -25,4 +25,10 @@ __Purpose__
 
 Cross platform was a vital point that is requested from the user so they won't have technical problems as the users will operate from different operating systems. The intention for the base is to be build on flutter framework that is codded in Dart and both of them are built by google.
 
+# Intended audience
+
+Intended to be used by anyone who wants to register for a web application account.it can be student , teachers ,tourist or whoever,as long as they register and login ,they can have the total access in this website,there is no other limit of it.
+Is to deliver a top-notch project that will get the user what events they search for and be good competitor on the market with other applications. Starting from the user logging on the application to browsing the events then choosing the one they want to go for then getting the ticket and be ready to go.
+
+
 
