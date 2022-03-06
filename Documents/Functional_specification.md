@@ -63,6 +63,12 @@ Subscription: get a priority when getting to event and not have to wait in the q
 
 ## 8. Request List
 
+-The following table shows what the Database will work with :
+
+- the window to show the events.
+- statistics for how many events for the users.
+- buttons on screen for the user to interact with the app.
+
 ## 9. Use Cases
 
 ## 10. Glossary
