@@ -94,17 +94,16 @@ In this project we will be mainly working on these things :
 
 __Functional requirements__
 
--**Home page:**  welcome page for the user and will show top artists on the site based on most played songs
-
--**Artists:** all the artists on the website if you don't know which one to choose from
-
--**Hit Songs:** highest 10 played songs on the site with the artist and the rating for each one 
+-*Register:**  this function will take the user to the signup page where he/she can enter their information to be able to login into the app
 
 -**Login:** you can create your own account or just login with google or Facebook as you wish
 
--**Account linking:** with variety of music platforms ( Spotify, Apple Music, SoundCloud)
+-**Home Page:** all the events are listed so you can register for an event as normal user.
 
--**Profile:** view your own profile and your favorite artists that you are subscribed to
+-**My events:** What you applied for and have the ticket as user, while it will show the events that you have made if you are an event organizer, for the event organizer you can modify your events for normal users they can unregister
+-**Search:** you can search spicific event
+
+-**Menu:** you can manage your account and see other functionalities
 
 -**About us:** the team who worked on the project and short note about them
 
