@@ -60,6 +60,14 @@ As the world gets more and more efficent technology needs to move along with it,
 use for now,we have decided how the project should look like and we have got a team of 5 people who will be working on it.
 we will make a cross platform application, with the addition of connecting it to database that will hold the data of users split between normal user and the event organizer. Database will hold also the events with different data like how many users registered for it, the starting time with ending time, capacity for the stadium/place to hold the fans and the place.
 
+__Goal__
+
+one of the must important goal is to get use to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab,android studio... 
+also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. 
+But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this voltaile world where technology is constantly changing and getting better,and make the life of user and admin easier .
+We want to make sure this application isnt all about the manipulation but also the user experience. If a user enjoys our design and is able to use the application with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
+
+
 
 
 
