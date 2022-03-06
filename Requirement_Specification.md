@@ -13,3 +13,10 @@ Requirement specification
 9. Goal  
 10. Glossary
 11. Other requirements
+
+
+__Project name__
+
+The project name is : **Sport Event App**
+
+
