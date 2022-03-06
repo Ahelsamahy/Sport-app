@@ -78,6 +78,10 @@ the app can be used mainly by two types of users, the fan and the event organize
 - See the starting and ending time for the event.
 - Change their personal info.
 
+### Event orgainzer:
+- Add Events 
+- View how many people did register for their event
+- change in the details of Event and push it to the users to see it.
 
 
 ## 10. Glossary
