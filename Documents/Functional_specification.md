@@ -72,6 +72,11 @@ Subscription: get a priority when getting to event and not have to wait in the q
 ## 9. Use Cases
 the app can be used mainly by two types of users, the fan and the event organizer
 
+### Fan:
+- Can register for event.
+- View the number of people who will attend the event
+- See the starting and ending time for the event.
+- Change their personal info.
 
 
 
