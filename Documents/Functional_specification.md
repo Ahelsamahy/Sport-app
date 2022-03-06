@@ -92,6 +92,7 @@ Flutter: is an open-source user interface software development kit created by Go
 
 Firebase: is a platform developed also by Google for creating mobile and web applications and handling the backside of the projects like database and authentication. It will save lot of work for us and let us focus on the developing part.
 
+Each widget should have a good overall looking so it will be good for wide range of users to be familiar with without having problem with, this can be done with proper use of navigation bar that should take you to different section in main page then to the important part which is input section, in addition to good colors that can make the site more appealing to the eyes as the user can input as many numbers as they can without getting eye strain.
 
 
 ## 11. Script
