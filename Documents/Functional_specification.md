@@ -86,4 +86,10 @@ the app can be used mainly by two types of users, the fan and the event organize
 
 ## 10. Glossary
 
+Mainly the project is going to be build on 2 main frameworks and programming languages: Flutter, Firebase.
+
+Flutter: is an open-source user interface software development kit created by Google that is used to make a cross platform apps that work on different platforms like iOS, Windows, macOS and Android of course and was released back in May 2017.
+
+
+
 ## 11. Script
