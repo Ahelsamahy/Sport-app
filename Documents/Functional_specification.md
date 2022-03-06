@@ -69,6 +69,16 @@ Subscription: get a priority when getting to event and not have to wait in the q
 - statistics for how many events for the users.
 - buttons on screen for the user to interact with the app.
 
+| Module   | ID  | Name        | V   | Description                      |
+|----------|-----|-------------|-----|----------------------------------|
+| Database | D1  | Name        | 0.1 | users                            |
+| Database | D2  | statistics  | 0.1 | Database, tables, relations      |
+| Page     | P1  | Events      | 0.1 | all data from specific users     |
+| Page     | P2  | overall     | 0.1 | all data from all users          |
+| Button   | B1  | Numbers     | 0.1 | User can choose event            |
+| Profile  | PR1 | input times | 0.1 | User view their date             |
+
+
 ## 9. Use Cases
 the app can be used mainly by two types of users, the fan and the event organizer
 
