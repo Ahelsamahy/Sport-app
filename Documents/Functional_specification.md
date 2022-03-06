@@ -96,3 +96,5 @@ Each widget should have a good overall looking so it will be good for wide range
 
 
 ## 11. Script
+
+The program will start with same login page that will tell the difference between the two different users based on their login credentials. The app will show different pages for each one, in case of user it will show all the events they can participate to them and will be sorted based on different parameters like how far it is or how many people also are going to it or even id it is related or not, after choosing the event the user will be navigated to another page to see more details about the event like description that is provided by the event organizer and starting time with the addition of requirement like vaccination certificate. The fan can register for the event then it will be shown on the **my dashboard** page as active events, when the event is over it will be moved to **Expired events** tab to have more insight about the record of events.
