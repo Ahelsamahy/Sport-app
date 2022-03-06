@@ -45,6 +45,13 @@ such as android studio.
 for database we will use Firebase which is also platform developed by Google for creating mobile and web applications.
 dart will be the main language we use.
 
+__Project Outline__
 
+this project is to start learning the way for framework to work as it will be our first approach to it but it will be a keystone in the project to satisfy the client request in making it cross platform, with the addition of connecting it to database that will hold the data of users split between normal user and the event organizer.
+this project it will make junior developer increasing his/her knowledge 
+and make them work as a time and also allowing 
+them to contribute a lot to the projects' development.  
+by using classes an id we can divied the work into neat bundles 
+of code which offer a lot of functionality while still being very readable. the work should use simple functionality that will make code neater throughout the entire project so the project will be very simple one.
 
 
