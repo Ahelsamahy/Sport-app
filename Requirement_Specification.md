@@ -82,11 +82,14 @@ __Glossary__
 * Firebase : is a platform developed by Google for creating mobile and web applications
 
 
-
-
 __Other Requirements__
 
-
+In this project we will be mainly working on these things : 
+* Performance : how the app reacts to the user’s requests.
+* Safety:try our best to avoid safety problem,like overflow
+* Security :  the way the app protects information.
+* Quality: this app should have good UI ,and high efficiency
+* Availability : how the app operates and functions.
 
 
 __Functional requirements__
