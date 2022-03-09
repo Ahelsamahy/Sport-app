@@ -69,8 +69,10 @@ But our main goal is to learn new technologies and show our ability to change at
 We want to make sure this application isnt all about the manipulation but also the user experience. If a user enjoys our design and is able to use the application with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 __Request List__
-
-
+-The following table shows what the Database will work with :
+- the window to show the events.
+- statistics for how many events for the users.
+- buttons on screen for the user to interact with the app.
 
 
 
