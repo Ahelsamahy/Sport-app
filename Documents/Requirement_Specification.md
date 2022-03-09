@@ -75,14 +75,15 @@ __Request List__
 - statistics for how many events for the users.
 - buttons on screen for the user to interact with the app.
 
-| Module   | ID  | Name        | V   | Description                      |
+ Module   | ID  | Name        | V   | Description                      |
 |----------|-----|-------------|-----|----------------------------------|
-| | D1  |      | 0.1 |                           |
-| | D2  |   | 0.1 |       |
-|     | P1  |       | 0.1 |     |
-|     | P2  |     | 0.1 |           |
-|   | B1  |   | 0.1 |           |
-|   | PR1 | | 0.1 |           |
+| Database | D1  | Name        | 0.1 | users                            |
+| Database | D2  | statistics  | 0.1 | Database, tables, relations      |
+| Page     | P1  | Events      | 0.1 | all data from specific users     |
+| Page     | P2  | overall     | 0.1 | all data from all users          |
+| Button   | B1  | Numbers     | 0.1 | User can choose event            |
+| Profile  | PR1 | input times | 0.1 | User view their date             |
+
 
 __Glossary__
 * Flutter : is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.
