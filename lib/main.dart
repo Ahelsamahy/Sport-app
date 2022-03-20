@@ -4,8 +4,9 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
+        backgroundColor: Colors.pink,
         appBar: AppBar(
-          title: Text("Welcome Page"),
+          title: const Text("Welcome Page"),
         ),
       ),
     ),
