@@ -64,6 +64,7 @@ flutter:
     - android/assets/images/movie.jpg
     - android/assets/images/popcorn.jpg
     - android/assets/images/Clock.gif
+    - android/assets/images/be7220027f5c3ec90ae826d498e4fdc7.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
