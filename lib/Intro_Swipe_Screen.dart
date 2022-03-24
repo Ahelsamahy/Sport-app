@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sport_app/Home.dart';
+import 'package:sport_app/Login.dart';
 import 'package:intro_slider/dot_animation_enum.dart';
 import 'package:intro_slider/intro_slider.dart';
 import 'package:intro_slider/slide_object.dart';
@@ -134,7 +134,7 @@ class _IntroSliderPageState extends State<IntroSliderPage> {
       onDonePress: () => Navigator.pushReplacement(
         context,
         MaterialPageRoute(
-          builder: (_) => HomePage(),
+          builder: (_) => Login(),
         ),
       ),
     );
