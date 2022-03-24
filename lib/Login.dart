@@ -11,9 +11,6 @@ class _LoginState extends State<Login> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
-      appBar: AppBar(
-        title: Text("Login Page"),
-      ),
       body: SingleChildScrollView(
         child: Column(
           children: <Widget>[
@@ -80,7 +77,7 @@ class _LoginState extends State<Login> {
             SizedBox(
               height: 130,
             ),
-            Text('New User? Create Account')
+            Text('New User? Create Account') //TODO CREATE ACCOUNT BUTTON
           ],
         ),
       ),
