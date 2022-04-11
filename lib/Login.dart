@@ -77,7 +77,6 @@ class _LoginState extends State<Login> {
             SizedBox(
               height: 130,
             ),
-            Text('New User? Create Account') //TODO CREATE ACCOUNT BUTTON
           ],
         ),
       ),
