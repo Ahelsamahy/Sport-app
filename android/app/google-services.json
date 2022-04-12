@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60833782251",
+    "project_id": "sport-app-uni",
+    "storage_bucket": "sport-app-uni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60833782251:android:9bd57bc75ddf436219a1ae",
+        "android_client_info": {
+          "package_name": "com.eke.sport_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60833782251-46spqpeovt5243j4jgkd2envi9sb1kjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJk_pUvngjluiX4STKnjO196HXdE8XiFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60833782251-46spqpeovt5243j4jgkd2envi9sb1kjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

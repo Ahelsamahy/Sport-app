@@ -12,8 +12,8 @@ class NavBar extends StatelessWidget {
         padding: EdgeInsets.zero,
         children: [
           UserAccountsDrawerHeader(
-            accountName: Text('Ahmed Mahfouz'),
-            accountEmail: Text('Ahmed@gmail.com'),
+            accountName: Text('EKKU Sport App'),
+            accountEmail: Text('eszterhazy@gmail.com'),
             currentAccountPicture: CircleAvatar(
               child: ClipOval(
                 child: Image.asset(
