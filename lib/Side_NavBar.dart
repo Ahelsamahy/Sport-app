@@ -56,7 +56,7 @@ class NavBar extends StatelessWidget {
           ListTile(
             title: Text('Exit'),
             leading: Icon(Icons.exit_to_app),
-            onTap: () => null,
+            onTap: () => SystemNavigator.pop(),
           ),
         ],
       ),
