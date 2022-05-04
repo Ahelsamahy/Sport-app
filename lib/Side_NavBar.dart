@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:sport_app/Login.dart';
 
 class NavBar extends StatelessWidget {
   const NavBar({Key? key}) : super(key: key);
@@ -54,9 +55,10 @@ class NavBar extends StatelessWidget {
           ),
           Divider(),
           ListTile(
-            title: Text('Exit'),
+            title: Text('Log out'),
             leading: Icon(Icons.exit_to_app),
-            onTap: () => SystemNavigator.pop(),
+            onTap: () => Navigator.push(
+                context, MaterialPageRoute(builder: (_) => Login())),
           ),
         ],
       ),
