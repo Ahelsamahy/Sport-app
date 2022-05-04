@@ -55,7 +55,7 @@ class NavBar extends StatelessWidget {
           ),
           Divider(),
           ListTile(
-            title: Text('Exit'),
+            title: Text('Log out'),
             leading: Icon(Icons.exit_to_app),
             onTap: () => Navigator.push(
                 context, MaterialPageRoute(builder: (_) => Login())),
