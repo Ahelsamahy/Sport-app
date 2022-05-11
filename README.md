@@ -6,8 +6,7 @@ The main purpose of this app is to deliver a one of a kind platform that will un
   <a href="#Introduction">Introduction</a> •
   <a href="#How it works">How it works</a> •
   <a href="#Home Page & Menu Button">Home Page & Menu Button</a> •
-  <a href="#license">License</a>
-  /p>
+</p>
 
 # Introduction
 
