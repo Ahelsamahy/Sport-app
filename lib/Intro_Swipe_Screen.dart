@@ -39,8 +39,9 @@ class _IntroSliderPageState extends State<IntroSliderPage> {
     );
     slides.add(
       Slide(
-        title: "#############",
-        description: "will be changed when there are more features to be added",
+        title: "Your friends event",
+        description: "can't decide which event to go?"
+            " we will show you the events that your friends planning to go so you can spend more time together.",
         pathImage: "android/assets/images/movie.jpg",
       ),
     );
