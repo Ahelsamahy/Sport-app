@@ -2,6 +2,13 @@
 
 The main purpose of this app is to deliver a one of a kind platform that will unite between a fan for a specific sport and the event that will be published from the event holder.
 
+<p align="center">
+  <a href="#Introduction">Introduction</a> •
+  <a href="#How it works">How it works</a> •
+  <a href="#Home Page & Menu Button">Home Page & Menu Button</a> •
+  <a href="#license">License</a>
+  /p>
+
 # Introduction
 
  When you run the apllication for the first time you will get these introductory slides.
@@ -9,7 +16,7 @@ The main purpose of this app is to deliver a one of a kind platform that will un
 <img src ="https://user-images.githubusercontent.com/92810736/162693330-e0547a9b-160e-48df-ba45-173a0b5f125a.gif">
 </p>
 
-# How it works?
+# How it works
 
 After the introduction slides the app will take the client directly to the Login Page where the client can register or login into his account.
 
