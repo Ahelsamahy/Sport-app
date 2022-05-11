@@ -32,8 +32,8 @@ class _IntroSliderPageState extends State<IntroSliderPage> {
     );
     slides.add(
       Slide(
-        title: "#############",
-        description: "will be changed when there are more features to be added",
+        title: "All in one Page",
+        description: "see all the events in one page without any distractions",
         pathImage: "android/assets/images/popcorn.jpg",
       ),
     );
