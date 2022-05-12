@@ -19,7 +19,6 @@
 
 
 
-<h1 align= "center">💡️ Project test 💡️</h1>
 
 <h2 align= "center"> Tester: Rachid Aifar </h2>
 <h3 align= "center"> Date of testing: 12 May 2022 </h3>
