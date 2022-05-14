@@ -41,5 +41,87 @@
 
 
 
+<h1 align= "center">️ Project test️</h1>
+<hr>
+<h2 align= "center"> Tester: Yslamguly Pirgulyyev </h2>
+<h3 align= "center"> Testing Date: 14 May 2022 </h3>
+<h4 align= "center"> Platform: iPhone 13Pro  </h4>
+
+<hr>
+
+<table>
+<thead>
+	<tr>
+		<th>Action performed</th>
+		<th>Tested by</th>
+		<th>Time</th>
+		<th>Issues</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Login button</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:12,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+	<tr>
+		<td>Intro slider</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:16,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+	<tr>
+		<td>Database Test</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:18,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+	<tr>
+		<td>Firebase connection</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:22,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+	<tr>
+		<td>Tables connection</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:26,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+	<tr>
+		<td>Result showing</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:18,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+	<tr>
+		<td>Database</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:20,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+	<tr>
+		<td>Sidebar navigator</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:24,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+	<tr>
+		<td>Authentification</td>
+		<td>Yslamguly Pirgulyyev</td>
+		<td>12:35,14 May 2022</td>
+		<td>No Issues</td>
+	</tr>
+</tbody>
+</table>
+<hr>
+<h2 align="center">Summary</h2>
+<h4 align="left">This project is done in a proper way with the tools that can deliver top notch user interface. It does not exhibit any errors or clash unexpectedly. There is not any user interface glitches.</h4>
+
+
+
+
+
 
 
