@@ -113,6 +113,22 @@
 	</tr>
 </tbody>
 </table>
+
+<h2 align= "center"> Tester: Oleg Dragoi </h2>
+<h3 align= "center"> Date of testing: 20 June 2022 </h3>
+<h4 align= "center"> platform: Pixel 4a API 30  </h3>
+<hr>
+
+| Modul | Name | Time | Is it working correctly? |
+|-------|------|------|--------------------------|
+| Intro slider | Oleg Dragoi | 11:00, 20 June 2022| Yes | 
+| Login page | Oleg Dragoi | 11:06, 20 June 2022 | Yes | 
+| Side slider navigator | Oleg Dragoi | 11:09, 20 June 2022 | Yes | 
+| Database test | Oleg Dragoi | 11:17, 20 June 2022 | Yes | 
+| Firebase connection | Oleg Dragoi | 11:7, 20 June 2022 | Yes | 
+| Tables connection | Oleg Dragoi | 11:30 , 20 June 2022| Yes | 
+| Logout test| Oleg Dragoi | 11:42, 20 June 2022 | Yes |
+
 <hr>
 <h2 align="center">Summary</h2>
 <h4 align="left">This project is done in a proper way with the tools that can deliver top notch user interface. It does not exhibit any errors or clash unexpectedly. There is not any user interface glitches.</h4>
