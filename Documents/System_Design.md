@@ -114,3 +114,11 @@ __Functional requirements__
 -**Menu:** you can manage your account and see other functionalities
 
 -**About us:** the team who worked on the project and short note about them
+
+__Script__
+
+The following user Diagram express the functionalities on the application:
+![LabSport](https://user-images.githubusercontent.com/90982692/156926192-8e7bdb62-ea96-41f1-a339-983eb44b1c47.jpg)
+
+this user diagram shows how the application will work starting from login
+intel the user logout and it describe multi functions on the app
