@@ -64,3 +64,53 @@ One of the must important goal is to get use to work in a project by being a par
 also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. 
 But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this volatile world where technology is constantly changing and getting better,and make the life of user and admin easier .
 We want to make sure this application isn't all about the manipulation but also the user experience. If a user enjoys our design and is able to use the application with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
+
+__Request List__
+
+-The following table shows what the Database will work with :
+- the window to show the events.
+- statistics for how many events for the users.
+- buttons on screen for the user to interact with the app.
+
+ Module   | ID  | Name        | V   | Description                      |
+|----------|-----|-------------|-----|----------------------------------|
+| Database | D1  | Name        | 0.1 | users                            |
+| Database | D2  | statistics  | 0.1 | Database, tables, relations      |
+| Page     | P1  | Events      | 0.1 | all data from specific users     |
+| Page     | P2  | overall     | 0.1 | all data from all users          |
+| Button   | B1  | Numbers     | 0.1 | User can choose event            |
+| Profile  | PR1 | input times | 0.1 | User view their date             |
+
+
+__Glossary__
+* Flutter : is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single code base.
+
+* Dart : is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications.
+
+* Firebase : is a platform developed by Google for creating mobile and web applications
+
+
+__Other Requirements__
+
+In this project we will be mainly working on these things : 
+* Performance : how the app reacts to the user’s requests.
+* Safety:try our best to avoid safety problem,like overflow
+* Security :  the way the app protects information.
+* Quality: this app should have good UI ,and high efficiency
+* Availability : how the app operates and functions.
+
+
+__Functional requirements__
+
+-*Register:**  this function will take the user to the sign up page where he/she can enter their information to be able to login into the app
+
+-**Login:** you can create your own account or just login with google or Facebook as you wish
+
+-**Home Page:** all the events are listed so you can register for an event as normal user.
+
+-**My events:** What you applied for and have the ticket as user, while it will show the events that you have made if you are an event organizer, for the event organizer you can modify your events for normal users they can unregister
+-**Search:** you can search specific event
+
+-**Menu:** you can manage your account and see other functionalities
+
+-**About us:** the team who worked on the project and short note about them
