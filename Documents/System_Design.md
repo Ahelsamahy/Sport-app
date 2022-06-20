@@ -42,3 +42,25 @@ for every problem, we meet, we will try to find good solution for it, we will tr
 such as android studio.
 For database we will use Firebase which is also platform developed by Google for creating mobile and web applications.
 Dart will be the main language we use.
+
+__Project Outline__
+
+this project is to start learning the way for framework to work as it will be our first approach to it but it will be a keystone in the project to satisfy the client request in making it cross platform, with the addition of connecting it to database that will hold the data of users split between normal user and the event organizer.
+this project it will make junior developer increasing his/her knowledge 
+and make them work as a time and also allowing 
+them to contribute a lot to the projects' development.  
+by using classes an id we can divided the work into neat bundles 
+of code which offer a lot of functionality while still being very readable. the work should use simple functionality that will make code neater throughout the entire project so the project will be very simple one.
+
+__Current situation__
+
+As the world gets more and more efficient technology needs to move along with it, and so we have the idea to create an application that will make it very easy for the user to 
+use for now,we have decided how the project should look like and we have got a team of 5 people who will be working on it.
+we will make a cross platform application, with the addition of connecting it to database that will hold the data of users split between normal user and the event organizer. Database will hold also the events with different data like how many users registered for it, the starting time with ending time, capacity for the stadium/place to hold the fans and the place.
+
+__Goal__
+
+One of the must important goal is to get use to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab,android studio... 
+also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. 
+But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this volatile world where technology is constantly changing and getting better,and make the life of user and admin easier .
+We want to make sure this application isn't all about the manipulation but also the user experience. If a user enjoys our design and is able to use the application with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
